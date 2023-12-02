@@ -1,0 +1,6 @@
+!! SUR BASH GIT !!
+
+Pour Créer une nouvelle branche à partir d'une branche déjà existante : commande "git checkout -b nom_de_la_branche" (dans le bon répertoire)
+Pour afficher la liste des branches existantes : "git branch"
+Pour se déplacer d'une branche à une autre : "git checkout nom_branche_cible"
+Pour versionner : "git add ."; puis "git commit -m "message descriptif""; puis "git push -u origin ma_branche" (faire un checkout avant tout)
