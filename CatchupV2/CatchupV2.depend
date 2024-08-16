@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1693512345 source:c:\users\erwan\onedrive\documents\erwan\polytech\session complementaire\catchupv2\game.cpp
+	"GAME.hpp"
+	"JOUEURS.hpp"
+	<iostream>
+	<string>
+	<vector>
+
+1693513643 source:c:\users\erwan\onedrive\documents\erwan\polytech\session complementaire\catchupv2\joueurs.cpp
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"JOUEURS.hpp"
+	"GAME.hpp"
+
+1693514200 source:c:\users\erwan\onedrive\documents\erwan\polytech\session complementaire\catchupv2\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"GAME.hpp"
+	"JOUEURS.hpp"
+
+1693417497 c:\users\erwan\onedrive\documents\erwan\polytech\session complementaire\catchupv2\game.hpp
+	<vector>
+	<string>
+
+1693512982 c:\users\erwan\onedrive\documents\erwan\polytech\session complementaire\catchupv2\joueurs.hpp
+	"GAME.hpp"
+	<string>
+
+1693512345 source:c:\users\erwan\onedrive\documents\erwan\polytech\github tuto\desktop-tutorial\catchupv2\game.cpp
+	"GAME.hpp"
+	"JOUEURS.hpp"
+	<iostream>
+	<string>
+	<vector>
+
+1693417497 c:\users\erwan\onedrive\documents\erwan\polytech\github tuto\desktop-tutorial\catchupv2\game.hpp
+	<vector>
+	<string>
+
+1693512982 c:\users\erwan\onedrive\documents\erwan\polytech\github tuto\desktop-tutorial\catchupv2\joueurs.hpp
+	"GAME.hpp"
+	<string>
+
+1693513643 source:c:\users\erwan\onedrive\documents\erwan\polytech\github tuto\desktop-tutorial\catchupv2\joueurs.cpp
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"JOUEURS.hpp"
+	"GAME.hpp"
+
+1693514200 source:c:\users\erwan\onedrive\documents\erwan\polytech\github tuto\desktop-tutorial\catchupv2\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"GAME.hpp"
+	"JOUEURS.hpp"
+

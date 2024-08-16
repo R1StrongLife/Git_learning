@@ -1,0 +1,4 @@
+Date et heure: Aug 30 2023 20:29:57
+Nombre de victoires pour le Joueur 1 : 1
+Nombre de victoires pour le Joueur 2 : 2
+Nombre de parties nulles : 0
